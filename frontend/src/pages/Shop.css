@@ -1,0 +1,15 @@
+
+.shop {
+  background-color: aqua;
+  color: black;
+}
+
+.cards__container {
+  /* background-color: yellow; */
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.heading{
+  text-align: center;
+}

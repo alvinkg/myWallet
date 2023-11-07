@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+section {
+  background-color: gray;
+  min-height:25vh;
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color:white;
+}
+.container{
+  background-color: #282c34;
+  min-height:25vh;
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color:white;
+  overflow-y: visible;
+}
+input, button{
+  display: block;
+  margin: 8px 0;
+}
+.list-group {
+  height:300px;
+}
+
+
+
